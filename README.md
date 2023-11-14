@@ -1,6 +1,6 @@
 # netflix
 
-A new Flutter project.
+UI of netflix app using Bloc.
 
 ## Getting Started
 
